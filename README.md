@@ -1,5 +1,12 @@
 # ShopNow
 
+## Application use guides
+1- Select a brand from dropdown page will be render and display the selected brand.
+
+2- Select a category from dropdown page will be render and display the selected category  with category title.
+
+3- You can sort the items via three way rating(high to low default) price(low to high, high to low) & discount(high to low default).
+
 # Screenshots
 
 ## Landing page
